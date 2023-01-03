@@ -1,0 +1,22 @@
+<object-stream>
+  <list>
+    <models.GameApp>
+      <appName>genxin</appName>
+      <appSize>500.0</appSize>
+      <appVersion>4.0</appVersion>
+      <appCost>20.0</appCost>
+      <isMultiplayer>true</isMultiplayer>
+    </models.GameApp>
+    <models.EducationApp>
+      <developer>
+        <developerName>XDX</developerName>
+        <developerWebsite>1233</developerWebsite>
+      </developer>
+      <appName>xuexitong</appName>
+      <appSize>21.0</appSize>
+      <appVersion>1.0</appVersion>
+      <appCost>2.0</appCost>
+      <level>5</level>
+    </models.EducationApp>
+  </list>
+</object-stream>
